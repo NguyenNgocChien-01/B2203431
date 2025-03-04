@@ -1,4 +1,4 @@
-2# 🌟 Website Bán Sản Phẩm Công Nghệ Cao Dùng LARAVEL 🌟
+# 🌟 Website Bán Sản Phẩm Công Nghệ Cao Dùng LARAVEL 🌟
 
 Dự án này được phát triển bằng Laravel và PHP bởi nhóm 4 thành viên. Mục tiêu là tạo ra website bán sản phẩm công nghệ cao.
 ## 👥 Thành Viên Nhóm
