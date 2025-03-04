@@ -1,22 +1,16 @@
-# B2203431
-Họ Tên: Nguyễn Ngọc Chiến
-Ngày sinh: 02/01/2004
-Giới tính: Nam
-Quê quán: Kiên Giang
-Học tại: Can Tho University
-Nền Tảng Bán Sản Phẩm Công Nghệ Cao
+# 🌟 Nền Tảng Bán Sản Phẩm Công Nghệ Cao 🌟
 
 Dự án này được phát triển bằng Laravel và PHP bởi nhóm 4 thành viên. Mục tiêu là tạo ra nền tảng bán sản phẩm công nghệ cao.
 
-## Tính Năng
+## ✨ Tính Năng
 
-- Xác thực người dùng
-- Quản lý sản phẩm
-- Giỏ hàng và thanh toán
-- Quản lý đơn hàng
-- Tích hợp cổng thanh toán
+- 🔒 Xác thực người dùng
+- 📦 Quản lý sản phẩm
+- 🛒 Giỏ hàng và thanh toán
+- 📋 Quản lý đơn hàng
+- 💳 Tích hợp cổng thanh toán
 
-## Cài Đặt
+## ⚙️ Cài Đặt
 
 1. Clone repository:
     ```bash
@@ -44,7 +38,7 @@ Dự án này được phát triển bằng Laravel và PHP bởi nhóm 4 thành
     php artisan serve
     ```
 
-## Thành Viên Nhóm
+## 👥 Thành Viên Nhóm
 
 - **Thành viên 1**: GitHub
 - **Thành viên 2**: GitHub
