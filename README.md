@@ -1,6 +1,6 @@
-# 🌟 Nền Tảng Bán Sản Phẩm Công Nghệ Cao 🌟
+2# 🌟 Website Bán Sản Phẩm Công Nghệ Cao Dùng LARAVEL 🌟
 
-Dự án này được phát triển bằng Laravel và PHP bởi nhóm 4 thành viên. Mục tiêu là tạo ra nền tảng bán sản phẩm công nghệ cao.
+Dự án này được phát triển bằng Laravel và PHP bởi nhóm 4 thành viên. Mục tiêu là tạo ra website bán sản phẩm công nghệ cao.
 
 ## ✨ Tính Năng
 
@@ -40,7 +40,7 @@ Dự án này được phát triển bằng Laravel và PHP bởi nhóm 4 thành
 
 ## 👥 Thành Viên Nhóm
 
-- **Thành viên 1**: GitHub
-- **Thành viên 2**: GitHub
-- **Thành viên 3**: GitHub
-- **Thành viên 4**: GitHub
+- Trương Thị Dạ Hương
+- Lê Thị Thanh Thúy
+- Nguyễn Võ Phương Tâm
+- Nguyễn Ngọc Chiến
