@@ -13,7 +13,7 @@ Dự án này được phát triển bằng Laravel và PHP bởi nhóm 4 thành
 
 1. Clone repository:
     ```bash
-    git clone https://github.com/your-repo/high-tech-sales-platform.git
+    git clone https://github.com/NguyenNgocChien-01/B2203431.git
     ```
 
 2. Cài đặt phụ thuộc:
